@@ -24,3 +24,6 @@ Création d’un site web permettant au public d’avoir des informations sur le
 Utilisateur non connecté : accueil, création d’un compte, listes des courses (sans accès aux vidéos).
 Utilisateur connecté : accueil personnalisé, accès aux listes des courses et aux vidéos, inscription aux courses.
 Tests et validation du site web.
+
+
+rendu final :  https://streamable.com/pkotm1
